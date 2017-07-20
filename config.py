@@ -7,11 +7,11 @@ import os
 # cmdb server url
 server_url = 'http://127.0.0.1:8000/api/'
 
-# 资产序列号
-serialnum_prefix = 'YLZX-'
+# 资产序列号前缀
+serialnum_prefix = 'AZ-'
 
 # IDC
-idc = '世纪互联'
+idc = 'xxxx'
 
 # 用途
 use = 'web'
